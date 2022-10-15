@@ -7,3 +7,12 @@ PHP 8.1
 Composer
 
     sudo apt install composer
+
+Laravel
+
+    composer create-project laravel/laravel laravel-psicologia -v
+    
+    if needed
+    
+        sudo apt-get install php-curl
+        sudo apt-get install php-xml
