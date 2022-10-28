@@ -1,8 +1,19 @@
 PHP 8.1
 
-    sudo apt update
-    sudo apt install --no-install-recommends php8.1
-    php -v
+    Ubuntu 22
+
+        sudo apt update
+        sudo apt install --no-install-recommends php8.1
+        php -v
+    
+    
+    Ubuntu 20
+    
+        sudo add-apt-repository ppa:ondrej/php
+        sudo apt install php8.0
+        php -v
+
+$ sudo apt update
 
 Composer
 
