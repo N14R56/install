@@ -1,0 +1,1 @@
+alias dotnet="/bin/dotnet"
