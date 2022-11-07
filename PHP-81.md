@@ -13,8 +13,6 @@ PHP 8.1
         sudo apt install php8.0
         php -v
 
-$ sudo apt update
-
 Composer
 
     sudo apt install composer
